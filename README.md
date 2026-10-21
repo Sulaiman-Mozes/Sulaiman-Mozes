@@ -29,7 +29,7 @@ At Ergeon I built an interactive 3D quoting tool in Three.js on satellite maps. 
 
 **AI-first engineering**
 
-Ergeon is an AI-first team. I use Claude Code and Codex daily for feature work, refactoring and test writing, and I review, test and verify everything they write before it ships.
+Ergeon is an AI-first team. I use Claude Code and Codex daily for feature work, refactoring and test writing, and I review, test and verify everything they write before it ships. I also build the agentic tooling around that work, at Ergeon and on my own: a system that runs several Claude Code agents in parallel, each in its own git worktree, each turning a ticket into a reviewed pull request, with an orchestrator that checks and merges.
 
 </td>
 </tr>
