@@ -1,25 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Kayizzi Sulaiman, Senior Full-Stack Engineer. A wireframe fence draws itself around a house on an isometric map grid, a nod to the 3D quoting tool he built in Three.js." src="assets/header-light.svg" width="100%">
-</picture>
+I'm a senior full-stack engineer in Kampala, Uganda.
 
-**I build 3D product tools for the web, and I ship them with AI coding agents.**
+For the past five years I've been at Ergeon, a US home improvement company, where I built the 3D fence quoting tool. Homeowners draw a fence on a satellite map of their own property, see it in 3D before booking, and get a quote that updates as they change the design. It increased quote conversions.
 
-### What I build
+<img src="assets/fence-catalog.svg" width="100%" alt="Line drawing of the fence types the quoting tool models: wood panels, chain-link, vinyl and a gate, between posts.">
 
-**A 3D fence quoting tool on satellite maps.** At Ergeon, homeowners design a fence on their own property, see it in 3D before booking, and get a quote that updates as they change the design. I built it in Three.js, React and TypeScript, with configurable 3D models of the whole fence catalog, micro frontends that ship independently, and lazy-loaded 3D and map modules. It increased quote conversions.
+The work behind it: Three.js models of the whole fence catalog, with materials and dimensions that match the specs; React and TypeScript micro frontends that ship independently; lazy-loaded 3D and map code; and end-to-end tests on the quote and booking flows.
 
-**AI-first engineering.** Claude Code and Codex are part of how I ship every day, and nothing they write ships until I've reviewed it and it passes tests. I also build the tooling around that work, at Ergeon and on my own: several Claude Code agents in parallel, each in its own git worktree, each turning a ticket into a reviewed pull request, with an orchestrator that checks and merges.
+Ergeon is an AI-first team. I use Claude Code and Codex every day, and nothing they write ships until I've reviewed it and it passes tests. I also build the tooling around that work, at Ergeon and on my own: several Claude Code agents running in parallel, each in its own git worktree, each turning a ticket into a reviewed pull request, with an orchestrator that checks and merges.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-flow-dark.svg">
-  <img alt="Tickets go to Claude Code agents running in parallel, each in its own git worktree. Each agent turns its ticket into a pull request that is reviewed and tested. An orchestrator checks and merges." src="assets/ai-flow-light.svg" width="100%">
-</picture>
+I've also led the frontend team at Noq, an identity and access management SaaS, and done full-stack work at ShipOhi, Harmonic Labs, Knotel and Andela.
 
-**Stack** &nbsp; `React` `TypeScript` `Next.js` `Three.js / WebGL` `Node.js` `Python / Django` `GraphQL` `PostgreSQL` `MongoDB` `AWS` `Cypress` `CI/CD`
-
-**Also** &nbsp; 7+ years building production web apps for US companies, remotely. Led the frontend team at Noq, an identity and access management SaaS. Earlier: ShipOhi, Harmonic Labs, Knotel, Andela. B.Sc. Computer Science, Gulu University · AWS Cloud Developer Nanodegree.
+React, TypeScript, Next.js, Three.js, Node.js, Python and Django, GraphQL, PostgreSQL, AWS.
 
 [LinkedIn](https://www.linkedin.com/in/kayizzi-sulaiman) · [Email](mailto:sulaimanmoses13@gmail.com)
-
-<sub>Most of my work lives in private company repositories; the public ones here are earlier projects.</sub>
