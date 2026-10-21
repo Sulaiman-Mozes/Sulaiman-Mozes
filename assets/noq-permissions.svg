@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-labelledby="t">
+  <title id="t">One web UI with a table of people and their permissions, connected to AWS, Azure AD, Okta and Google Cloud.</title>
+  <g stroke="#8C959F" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="80.0" y="24.0" width="440.0" height="192.0" rx="8" stroke-width="2" fill="none"/>
+  <line x1="80.0" y1="58.0" x2="520.0" y2="58.0" stroke-width="2"/>
+  <text x="100.0" y="47.0" text-anchor="start" font-size="15" fill="#8C959F" stroke="none">permissions</text>
+  <line x1="230.0" y1="72.0" x2="230.0" y2="204.0" stroke-width="1"/>
+  <line x1="300.0" y1="72.0" x2="300.0" y2="204.0" stroke-width="1"/>
+  <line x1="370.0" y1="72.0" x2="370.0" y2="204.0" stroke-width="1"/>
+  <line x1="440.0" y1="72.0" x2="440.0" y2="204.0" stroke-width="1"/>
+  <line x1="100.0" y1="100.0" x2="500.0" y2="100.0" stroke-width="1"/>
+  <line x1="100.0" y1="128.0" x2="500.0" y2="128.0" stroke-width="1"/>
+  <line x1="100.0" y1="156.0" x2="500.0" y2="156.0" stroke-width="1"/>
+  <line x1="100.0" y1="184.0" x2="500.0" y2="184.0" stroke-width="1"/>
+  <line x1="112.0" y1="114.0" x2="190.0" y2="114.0" stroke-width="3"/>
+  <path d="M257 114.0 L263 120.0 L274 107.0" stroke-width="2" fill="none"/>
+  <path d="M397 114.0 L403 120.0 L414 107.0" stroke-width="2" fill="none"/>
+  <path d="M467 114.0 L473 120.0 L484 107.0" stroke-width="2" fill="none"/>
+  <line x1="112.0" y1="142.0" x2="168.0" y2="142.0" stroke-width="3"/>
+  <path d="M257 142.0 L263 148.0 L274 135.0" stroke-width="2" fill="none"/>
+  <path d="M327 142.0 L333 148.0 L344 135.0" stroke-width="2" fill="none"/>
+  <path d="M467 142.0 L473 148.0 L484 135.0" stroke-width="2" fill="none"/>
+  <line x1="112.0" y1="170.0" x2="190.0" y2="170.0" stroke-width="3"/>
+  <path d="M257 170.0 L263 176.0 L274 163.0" stroke-width="2" fill="none"/>
+  <path d="M327 170.0 L333 176.0 L344 163.0" stroke-width="2" fill="none"/>
+  <path d="M397 170.0 L403 176.0 L414 163.0" stroke-width="2" fill="none"/>
+  <line x1="112.0" y1="194.0" x2="168.0" y2="194.0" stroke-width="3"/>
+  <path d="M327 194.0 L333 200.0 L344 187.0" stroke-width="2" fill="none"/>
+  <path d="M397 194.0 L403 200.0 L414 187.0" stroke-width="2" fill="none"/>
+  <path d="M467 194.0 L473 200.0 L484 187.0" stroke-width="2" fill="none"/>
+  <line x1="250.0" y1="86.0" x2="280.0" y2="86.0" stroke-width="3"/>
+  <line x1="320.0" y1="86.0" x2="350.0" y2="86.0" stroke-width="3"/>
+  <line x1="390.0" y1="86.0" x2="420.0" y2="86.0" stroke-width="3"/>
+  <line x1="460.0" y1="86.0" x2="490.0" y2="86.0" stroke-width="3"/>
+  <rect x="820.0" y="22.0" width="230.0" height="40.0" rx="6" stroke-width="2" fill="none"/>
+  <text x="935.0" y="48.0" text-anchor="middle" font-size="17" fill="#8C959F" stroke="none">AWS</text>
+  <path d="M520 120 C640 120 680 42 820 42" stroke-width="1.6" fill="none"/>
+  <rect x="820.0" y="76.0" width="230.0" height="40.0" rx="6" stroke-width="2" fill="none"/>
+  <text x="935.0" y="102.0" text-anchor="middle" font-size="17" fill="#8C959F" stroke="none">Azure AD</text>
+  <path d="M520 120 C640 120 680 96 820 96" stroke-width="1.6" fill="none"/>
+  <rect x="820.0" y="130.0" width="230.0" height="40.0" rx="6" stroke-width="2" fill="none"/>
+  <text x="935.0" y="156.0" text-anchor="middle" font-size="17" fill="#8C959F" stroke="none">Okta</text>
+  <path d="M520 120 C640 120 680 150 820 150" stroke-width="1.6" fill="none"/>
+  <rect x="820.0" y="184.0" width="230.0" height="40.0" rx="6" stroke-width="2" fill="none"/>
+  <text x="935.0" y="210.0" text-anchor="middle" font-size="17" fill="#8C959F" stroke="none">Google Cloud</text>
+  <path d="M520 120 C640 120 680 204 820 204" stroke-width="1.6" fill="none"/>
+  </g>
+</svg>

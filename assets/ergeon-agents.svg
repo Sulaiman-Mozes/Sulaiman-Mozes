@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-labelledby="t">
+  <title id="t">A git graph. Three branches leave main, one per agent, each in its own git worktree. Each ends in a reviewed and tested pull request that merges back into main.</title>
+  <g stroke="#8C959F" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+  <line x1="60.0" y1="196.0" x2="1140.0" y2="196.0" stroke-width="2.6"/>
+  <text x="60.0" y="228.0" text-anchor="start" font-size="17" fill="#8C959F" stroke="none">main</text>
+  <circle cx="100.0" cy="196.0" r="7" stroke-width="2.4" fill="#8C959F"/>
+  <circle cx="1100.0" cy="196.0" r="7" stroke-width="2.4" fill="#8C959F"/>
+  <path d="M150 196 C190 196 170 50 220 50 L950 50 C1000 50 980 196 1020 196" stroke-width="2" fill="none"/>
+  <circle cx="150.0" cy="196.0" r="6" stroke-width="2" fill="#8C959F"/>
+  <text x="234.0" y="36.0" text-anchor="start" font-size="15" fill="#8C959F" stroke="none">agent 1 · worktree 1</text>
+  <text x="944.0" y="36.0" text-anchor="end" font-size="15" fill="#8C959F" stroke="none">reviewed PR</text>
+  <circle cx="439.0" cy="50.0" r="6.5" stroke-width="2" fill="none"/>
+  <circle cx="529.0" cy="50.0" r="6.5" stroke-width="2" fill="none"/>
+  <circle cx="619.0" cy="50.0" r="6.5" stroke-width="2" fill="none"/>
+  <circle cx="709.0" cy="50.0" r="6.5" stroke-width="2" fill="none"/>
+  <circle cx="799.0" cy="50.0" r="6.5" stroke-width="2" fill="none"/>
+  <circle cx="1020.0" cy="196.0" r="8" stroke-width="2.4" fill="#8C959F"/>
+  <path d="M230 196 C270 196 250 100 300 100 L830 100 C880 100 860 196 900 196" stroke-width="2" fill="none"/>
+  <circle cx="230.0" cy="196.0" r="6" stroke-width="2" fill="#8C959F"/>
+  <text x="314.0" y="86.0" text-anchor="start" font-size="15" fill="#8C959F" stroke="none">agent 2 · worktree 2</text>
+  <text x="824.0" y="86.0" text-anchor="end" font-size="15" fill="#8C959F" stroke="none">reviewed PR</text>
+  <circle cx="536.5" cy="100.0" r="6.5" stroke-width="2" fill="none"/>
+  <circle cx="661.5" cy="100.0" r="6.5" stroke-width="2" fill="none"/>
+  <circle cx="900.0" cy="196.0" r="8" stroke-width="2.4" fill="#8C959F"/>
+  <path d="M310 196 C350 196 330 150 380 150 L710 150 C760 150 740 196 780 196" stroke-width="2" fill="none"/>
+  <circle cx="310.0" cy="196.0" r="6" stroke-width="2" fill="#8C959F"/>
+  <text x="394.0" y="136.0" text-anchor="start" font-size="15" fill="#8C959F" stroke="none">agent 3 · worktree 3</text>
+  <text x="704.0" y="136.0" text-anchor="end" font-size="15" fill="#8C959F" stroke="none">reviewed PR</text>
+  <circle cx="579.0" cy="150.0" r="6.5" stroke-width="2" fill="none"/>
+  <circle cx="780.0" cy="196.0" r="8" stroke-width="2.4" fill="#8C959F"/>
+  <text x="1140.0" y="228.0" text-anchor="end" font-size="17" fill="#8C959F" stroke="none">an orchestrator checks and merges</text>
+  </g>
+</svg>
