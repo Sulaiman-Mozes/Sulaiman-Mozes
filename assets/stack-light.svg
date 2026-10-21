@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 262" width="1200" height="262" role="img" aria-labelledby="title">
+  <title id="title">Stack. Frontend: React, TypeScript, Next.js, Three.js / WebGL, Tailwind CSS, Micro frontends; Backend: Node.js, Python, Django, GraphQL, REST, PostgreSQL, MongoDB; Cloud &amp; delivery: AWS, Cypress, End-to-end tests, CI/CD; AI-assisted: Claude Code, Codex, AI code review</title>
+  <circle cx="30" cy="41" r="7" fill="#0891B2"/>
+  <text x="48" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#0F172A">Frontend</text>
+  <rect x="240.0" y="20" width="81.2" height="42" rx="21" fill="#FFFFFF" stroke="#0891B2" stroke-opacity="0.55"/>
+  <text x="252.0" y="47.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">React</text>
+  <rect x="331.2" y="20" width="138.4" height="42" rx="21" fill="#FFFFFF" stroke="#0891B2" stroke-opacity="0.55"/>
+  <text x="343.2" y="47.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">TypeScript</text>
+  <rect x="479.6" y="20" width="104.1" height="42" rx="21" fill="#FFFFFF" stroke="#0891B2" stroke-opacity="0.55"/>
+  <text x="491.6" y="47.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Next.js</text>
+  <rect x="593.7" y="20" width="207.0" height="42" rx="21" fill="#FFFFFF" stroke="#0891B2" stroke-opacity="0.55"/>
+  <text x="605.7" y="47.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Three.js / WebGL</text>
+  <rect x="810.7" y="20" width="161.3" height="42" rx="21" fill="#FFFFFF" stroke="#0891B2" stroke-opacity="0.55"/>
+  <text x="822.7" y="47.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Tailwind CSS</text>
+  <rect x="982.0" y="20" width="195.6" height="42" rx="21" fill="#FFFFFF" stroke="#0891B2" stroke-opacity="0.55"/>
+  <text x="994.0" y="47.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Micro frontends</text>
+  <circle cx="30" cy="101" r="7" fill="#7C3AED"/>
+  <text x="48" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#0F172A">Backend</text>
+  <rect x="240.0" y="80" width="104.1" height="42" rx="21" fill="#FFFFFF" stroke="#7C3AED" stroke-opacity="0.55"/>
+  <text x="252.0" y="107.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Node.js</text>
+  <rect x="354.1" y="80" width="92.6" height="42" rx="21" fill="#FFFFFF" stroke="#7C3AED" stroke-opacity="0.55"/>
+  <text x="366.1" y="107.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Python</text>
+  <rect x="456.7" y="80" width="92.6" height="42" rx="21" fill="#FFFFFF" stroke="#7C3AED" stroke-opacity="0.55"/>
+  <text x="468.7" y="107.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Django</text>
+  <rect x="559.4" y="80" width="104.1" height="42" rx="21" fill="#FFFFFF" stroke="#7C3AED" stroke-opacity="0.55"/>
+  <text x="571.4" y="107.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">GraphQL</text>
+  <rect x="673.4" y="80" width="69.8" height="42" rx="21" fill="#FFFFFF" stroke="#7C3AED" stroke-opacity="0.55"/>
+  <text x="685.4" y="107.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">REST</text>
+  <rect x="753.2" y="80" width="138.4" height="42" rx="21" fill="#FFFFFF" stroke="#7C3AED" stroke-opacity="0.55"/>
+  <text x="765.2" y="107.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">PostgreSQL</text>
+  <rect x="901.6" y="80" width="104.1" height="42" rx="21" fill="#FFFFFF" stroke="#7C3AED" stroke-opacity="0.55"/>
+  <text x="913.6" y="107.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">MongoDB</text>
+  <circle cx="30" cy="161" r="7" fill="#D97706"/>
+  <text x="48" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#0F172A">Cloud &amp; delivery</text>
+  <rect x="240.0" y="140" width="58.3" height="42" rx="21" fill="#FFFFFF" stroke="#D97706" stroke-opacity="0.55"/>
+  <text x="252.0" y="167.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">AWS</text>
+  <rect x="308.3" y="140" width="104.1" height="42" rx="21" fill="#FFFFFF" stroke="#D97706" stroke-opacity="0.55"/>
+  <text x="320.3" y="167.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Cypress</text>
+  <rect x="422.4" y="140" width="207.0" height="42" rx="21" fill="#FFFFFF" stroke="#D97706" stroke-opacity="0.55"/>
+  <text x="434.4" y="167.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">End-to-end tests</text>
+  <rect x="639.4" y="140" width="81.2" height="42" rx="21" fill="#FFFFFF" stroke="#D97706" stroke-opacity="0.55"/>
+  <text x="651.4" y="167.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">CI/CD</text>
+  <circle cx="30" cy="221" r="7" fill="#0891B2"/>
+  <text x="48" y="228" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#0F172A">AI-assisted</text>
+  <rect x="240.0" y="200" width="149.8" height="42" rx="21" fill="#FFFFFF" stroke="#0891B2" stroke-opacity="0.55"/>
+  <text x="252.0" y="227.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Claude Code</text>
+  <rect x="399.8" y="200" width="81.2" height="42" rx="21" fill="#FFFFFF" stroke="#0891B2" stroke-opacity="0.55"/>
+  <text x="411.8" y="227.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">Codex</text>
+  <rect x="491.0" y="200" width="184.2" height="42" rx="21" fill="#FFFFFF" stroke="#0891B2" stroke-opacity="0.55"/>
+  <text x="503.0" y="227.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0F172A">AI code review</text>
+</svg>
