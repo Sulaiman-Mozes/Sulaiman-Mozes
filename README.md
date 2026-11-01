@@ -13,4 +13,4 @@ React, TypeScript and Three.js on the frontend; Python and Django, Node.js, Grap
 - AI-first: I use Claude Code and Codex every day, and nothing they write ships until I've reviewed it and it passes tests.
 - I build the tooling around that work: Claude Code agents in parallel git worktrees, each turning a ticket into a reviewed pull request, with an orchestrator that checks and merges.
 
-[LinkedIn](https://www.linkedin.com/in/kayizzi-sulaiman) · [Email](mailto:sulaimanmoses13@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kayizzi-sulaiman)
